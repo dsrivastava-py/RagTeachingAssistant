@@ -1,0 +1,6 @@
+I am teaching web development in my Sigma web development course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"title":"Video, Audio & Media in HTML","number":"10","start":416.08,"end":417.08,"text":" Then you can use it."},{"title":"Video, Audio & Media in HTML","number":"10","start":648.08,"end":649.08,"text":" i will show you"},{"title":"Video, Audio & Media in HTML","number":"10","start":649.08,"end":652.08,"text":" so i wrote svg file not showing"}]
+---------------------------------
+"video tags"
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course
