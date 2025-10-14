@@ -31,4 +31,4 @@
 ## Thank-You
 - This is working of this RAG based AI Teaching Assistant, it was fun making it. The only issue is that you must have High End GPUs for processing large chunk of files, or you can use OpenAI API or use platforms like Google Colab in order to run such programs with efficiency.
 
-### With Efforts - [Devansh Srivastava]("https://linkedin.com/in/connectwithdevansh")
+### With Efforts - [Devansh Srivastava](https://linkedin.com/in/connectwithdevansh)
