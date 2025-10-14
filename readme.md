@@ -6,13 +6,13 @@
 - AI Models : [OpenAI-Whisper, Ollama-llama3.2, Ollama-bge-m3]
 
 ## Videos Used-
-### This entire Project is made for the first 18 videos of [Sigma Web Development Course]("https://youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&si=Op51LtvUIdK3CZP2") launched by the YouTube Creator - [Code With Harry]("https://www.youtube.com/@codewithharry")
+### This entire Project is made for the first 18 videos of [Sigma Web Development Course](https://youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&si=Op51LtvUIdK3CZP2) launched by the YouTube Creator - [Code With Harry](https://www.youtube.com/@codewithharry)
 - All the videos are not processed due to limited resources
 - The same code can be used for any set of videos
 
 ## What does this Repo Contains?
 - This Repo has the audio files of the 18 videos which have been used to build this RAG based AI Teaching Assistant
-- The Video files are not included in this Repo, you can access them through [YouTube]("https://youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&si=Op51LtvUIdK3CZP2")
+- The Video files are not included in this Repo, you can access them through [YouTube](https://youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&si=Op51LtvUIdK3CZP2)
 - This Repo also contains the JSON files with the Transcription of all the 18 videos
 
 ## What does this Repo DO NOT Contains?
